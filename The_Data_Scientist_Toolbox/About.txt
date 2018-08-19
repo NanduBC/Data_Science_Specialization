@@ -1,4 +1,0 @@
-Course:    The Data Scientist's toolbox
-Platform:  Coursera
-Start Date: August 17th, 2018
-User      : NanduBC
